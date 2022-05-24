@@ -1,0 +1,64 @@
+[{
+        "Day": "Monday",
+        "Date": "10/01/2022",
+        "Weather": "Plenty of sunshine",
+        "Temperature": 24,
+        "Precipitation probability": 0,
+        "Wind speed": 7,
+        "Cloud": 3
+    },
+    {
+        "Day": "Tuesday",
+        "Date": "11/01/2022",
+        "Weather": "Plenty of sunshine",
+        "Temperature": 26,
+        "Precipitation probability": 1,
+        "Wind speed": 5,
+        "Cloud": 10
+    },
+    {
+        "Day": "Wednesday",
+        "Date": "12/01/2022",
+        "Weather": "Partly cloudy",
+        "Temperature": 24,
+        "Precipitation probability": 1,
+        "Wind speed": 9,
+        "Cloud": 5
+    },
+    {
+        "Day": "Thursday",
+        "Date": "13/01/2022",
+        "Weather": "Partly cloudy",
+        "Temperature": 22,
+        "Precipitation probability": 0,
+        "Wind speed": 6,
+        "Cloud": 3
+    },
+    {
+        "Day": "Friday",
+        "Date": "14/01/2022",
+        "Weather": "Partly rainy",
+        "Temperature": 23,
+        "Precipitation probability": 2,
+        "Wind speed": 7,
+        "Cloud": 6
+    },
+    {
+        "Day": "Saturday",
+        "Date": "15/01/2022",
+        "Weather": "Partly rainy",
+        "Temperature": 21,
+        "Precipitation probability": 4,
+        "Wind speed": 8,
+        "Cloud": 5
+    },
+    {
+        "Day": "Sunday",
+        "Date": "16/01/2022",
+        "Weather": "Partly cloudy",
+        "Temperature": 22,
+        "Precipitation probability": 3,
+        "Wind speed": 5,
+        "Cloud": 6
+    }
+]
